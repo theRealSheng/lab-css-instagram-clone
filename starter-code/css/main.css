@@ -70,8 +70,8 @@ footer li {
   margin:auto;
 }
 
-footer li :last-child{
-  margin-left: 20px;
+footer ul :last-child{
+  margin-left: 22px;
 }
 
 .special {
